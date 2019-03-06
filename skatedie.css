@@ -1,0 +1,70 @@
+.navbar{
+    background-color:gray;
+}
+.jumbotron{
+    text-align: center;
+    font-size: 15px;
+    background: none;
+}
+.section-light{
+    background-color: aqua;
+    padding: 2rem;
+}
+.new-concept{
+    background-color: chartreuse;
+    padding: 2rem;
+}
+.hii{
+    margin-top: 20px;
+}
+.cool{
+    text-align: center;
+}
+button.collstuff{
+    background-color: blueviolet;
+    color: chocolate;    
+    display: block;
+    margin: auto;
+}
+h5.modal-title{
+    margin: auto;
+}
+.my-form{
+    padding: 2rem;
+}
+.new-row{
+    padding: 2rem;
+}
+.first{
+    display: block;
+    margin: auto;
+}
+.nest{
+   
+        display: block;
+    margin: auto;
+    width: 72%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.my-footer{
+    padding: 1rem;
+    background-color:khaki;
+}
+.fa{
+    margin: 10px;
+}
+
+.fa-facebook-square{
+    color: blue;
+}
+.fa-google-plus-square{
+    color: red;
+}
+.fa-instagram{
+    color:palevioletred;
+}
+
+.social{
+    margin: auto;
+}
